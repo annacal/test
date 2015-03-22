@@ -1,5 +1,5 @@
 {
-  "Description":"Launcher JSON Targets",
+  "Description":"Launcher WEB JSON Targets",
   "Targets":
     [
       {"Target":"Target","Name":"TargetOne","X":50,"Y":20,"Z":10,"Friend":true,"Points":50,"FlashRate":-1,"SpawnRate":4,"CanSwapSidesWhenHit":false},
